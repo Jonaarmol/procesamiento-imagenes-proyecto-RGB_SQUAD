@@ -1,0 +1,1 @@
+# procesamiento-imagenes-proyecto-RGB_SQUAD
